@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | tail -n 10 | xargs echo
+ls -1t | tail -n 10 | xargs echo
